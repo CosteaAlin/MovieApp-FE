@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+button {
+    border-radius: 0 !important;
+}
+
+.container {
+    margin-top: 5rem;
+}
+
+.custom-card {
+    margin-top: 3rem;
+}
+
+.modal-img {
+    width: 10rem;
+}
